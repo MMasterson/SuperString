@@ -6,7 +6,7 @@
 __author__ = "Mark Robert Masterson"
 __credits__ = ["Mark Robert Masterson"]
 __license__ = "CC"
-__version__ = "0.2.0"
+__version__ = "0.0.2"
 __email__ = "mark@Masterson.io"
 __status__ = "Development"
 
